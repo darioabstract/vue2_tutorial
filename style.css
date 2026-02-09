@@ -39,8 +39,16 @@ img {
   margin-top: 5px;
 }
 
+.color-box:hover {
+  cursor: pointer;
+}
+
+.outOfStock {
+  text-decoration: line-through;
+}
+
 .cart {
-  margin-right: 25px;
+  margin-right: 25em;
   float: right;
   border: 1px solid #d8d8d8;
   padding: 5px 20px;
